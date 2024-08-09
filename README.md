@@ -26,4 +26,4 @@ Mimint es mi ultimo proyecto en grupo y es una aplicacion web realizada con el o
 
 [![Repositorio de Mimint](https://img.shields.io/badge/Visitar_Repositorio-FF6F61?style=for-the-badge&logo=github&logoColor=white&labelColor=282C34)](https://github.com/Sebanev15/Mimint)
 
-[![Imagen de Mimint](https://github.com/Sebanev15/Sebanev15/Mimint.png)]
+[![Imagen de Mimint](https://github.com/Sebanev15/Sebanev15/Mimint.png)](https://github.com/Sebanev15)

@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Soy un estudiante de bachillerato uruguayo Google (Noto Color Emoji - Unicode 15.1) que le encanta la programacion y busca aprender cada vez mas 
+Soy un estudiante de bachillerato uruguayo que le encanta la programacion y busca aprender cada vez mas 
+Actualmente cuento con conocimientos en: PHP, Java, JavaScript, Python, HTML, CSS
+Mimint: Mimint es mi ultimo proyecto actual y es una aplicacion web realizada con el objetivo de organizar reuniones [![Visitar Repositorio](https://img.shields.io/badge/Visitar_Repositorio-282C34?style=for-the-badge&logo=github)](https://github.com/Sebanev15/Mimint)

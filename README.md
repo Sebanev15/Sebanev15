@@ -21,9 +21,17 @@ Actualmente cuento con conocimientos en: PHP, Java, JavaScript, Python, HTML, CS
 
 # Mis Proyectos Favoritos 🚀
 
-## Mimint
+## Mimint 🚧 *En progreso*
 Mimint es mi ultimo proyecto en grupo y es una aplicacion web realizada con el objetivo de organizar reuniones 
 
 [![Repositorio de Mimint](https://img.shields.io/badge/Visitar_Repositorio-FF6F61?style=for-the-badge&logo=github&logoColor=white&labelColor=282C34)](https://github.com/Sebanev15/Mimint)
 
 <img src="https://raw.githubusercontent.com/Sebanev15/Sebanev15/main/Mimint.png" alt="Mimint" width="90%"/>
+
+## MeriendasImpulso ✅ *Proyecto Completado*
+MeriendasImpulso surgio a partir de una idea mia y un compañero para gestionar la venta de alimentos de nuestro liceo.
+
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Dd5Mtjqby5U" frameborder="0" allowfullscreen></iframe>
+</div>
+

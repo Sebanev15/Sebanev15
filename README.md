@@ -32,6 +32,6 @@ Mimint es mi ultimo proyecto en grupo y es una aplicacion web realizada con el o
 MeriendasImpulso surgio a partir de una idea mia y un compañero para gestionar la venta de alimentos de nuestro liceo.
 
 <div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Dd5Mtjqby5U" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Dd5Mtjqby5U" allowfullscreen></iframe>
 </div>
 

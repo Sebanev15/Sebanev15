@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Sobre mi 👨‍💻
 Soy un estudiante de bachillerato uruguayo que le encanta la programacion y busca aprender cada vez mas 
-Actualmente cuento con conocimientos en: PHP, Java, JavaScript, Python, HTML, CSS
+Actualmente cuento con conocimientos en: PHP, Java, JavaScript, Python, HTML, CSS y Shell script
 
 
 # Mis Proyectos Favoritos 🚀

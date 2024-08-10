@@ -48,5 +48,27 @@ MeriendasImpulso surgió a partir de una idea mía y de un compañero para gesti
   </a>
 </div>
 
-## Mis Estadísticas de GitHub 📊
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Sebanev15&show_icons=true&theme=dark)
+## Certificaciones y Cursos Completados 📜
+
+### Participacion en hackaton Space Apps Challenge
+<img src="https://raw.githubusercontent.com/Sebanev15/Sebanev15/main/certificados/2023 Space Apps Certificates_NASA Space Apps Challenge - Sebastián Neves.pdf" alt="Certificado Python for Everybody" width="70%">
+
+---
+
+### Participacion en curso de GeneXus 18 Junior Analyst
+<img src="https://raw.githubusercontent.com/Sebanev15/Sebanev15/main/certificados/WebCertificado26063_NEVESSEBASTIAN.pdf" alt="Certificado Introduction to Web Development" width="70%">
+
+### Participacion en curso de GeneXus 18 Junior Developer 
+<img src="https://raw.githubusercontent.com/Sebanev15/Sebanev15/main/certificados/Certificado38546_NEVESSEBASTIAN.pdf" alt="Certificado Introduction to Web Development" width="70%">
+
+### Participacion en curso de HTML y CSS - Domestika
+<img src="https://raw.githubusercontent.com/Sebanev15/Sebanev15/main/certificados/ertificate%20HTML%20y%20CSS.pdf" alt="Certificado Introduction to Web Development" width="70%">
+
+### Participacion en curso de Figma - Domestika
+<img src="https://raw.githubusercontent.com/Sebanev15/Sebanev15/main/certificados/certificate.pdf" alt="Certificado Introduction to Web Development" width="70%">
+
+### Participacion en curso de gestion de proyectos en Git y GitHub
+<img src="https://raw.githubusercontent.com/Sebanev15/Sebanev15/main/certificados/Diploma_participacion.pdf" alt="Certificado Introduction to Web Development" width="70%">
+
+### Participacion en curso de HTML, CSS y JavaScript - Hack Academy
+<img src="https://raw.githubusercontent.com/Sebanev15/Sebanev15/main/certificados/Sebastian%20Neves%20-%202023-05-08.pdf" alt="Certificado Introduction to Web Development" width="70%">

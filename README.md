@@ -50,35 +50,35 @@ MeriendasImpulso surgió a partir de una idea mía y de un compañero para gesti
 
 ## Certificaciones y Cursos Completados 📜
 
-### Participacion en hackaton Space Apps Challenge
-<img src="https://raw.githubusercontent.com/Sebanev15/Sebanev15/main/certificados/2023 Space Apps Certificates_NASA Space Apps Challenge - Sebastián Neves.pdf" alt="Certificado Python for Everybody" width="70%">
+### Participación en hackatón Space Apps Challenge
+[Ver Certificado](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/2023%20Space%20Apps%20Certificates_NASA%20Space%20Apps%20Challenge%20-%20Sebasti%C3%A1n%20Neves.pdf)
 
 ---
 
-### Participacion en curso de GeneXus 18 Junior Analyst
-<img src="https://raw.githubusercontent.com/Sebanev15/Sebanev15/main/certificados/WebCertificado26063_NEVESSEBASTIAN.pdf" alt="Certificado Introduction to Web Development" width="70%">
+### Participación en curso de GeneXus 18 Junior Analyst
+[Ver Certificado](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/WebCertificado26063_NEVESSEBASTIAN.pdf)
 
 ---
 
-### Participacion en curso de GeneXus 18 Junior Developer 
-<img src="https://raw.githubusercontent.com/Sebanev15/Sebanev15/main/certificados/Certificado38546_NEVESSEBASTIAN.pdf" alt="Certificado Introduction to Web Development" width="70%">
+### Participación en curso de GeneXus 18 Junior Developer 
+[Ver Certificado](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/Certificado38546_NEVESSEBASTIAN.pdf)
 
 ---
 
-### Participacion en curso de HTML y CSS - Domestika
-<img src="https://raw.githubusercontent.com/Sebanev15/Sebanev15/main/certificados/ertificate%20HTML%20y%20CSS.pdf" alt="Certificado Introduction to Web Development" width="70%">
+### Participación en curso de HTML y CSS - Domestika
+[Ver Certificado](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/ertificate%20HTML%20y%20CSS.pdf)
 
 ---
 
-### Participacion en curso de Figma - Domestika
-<img src="https://raw.githubusercontent.com/Sebanev15/Sebanev15/main/certificados/certificate.pdf" alt="Certificado Introduction to Web Development" width="70%">
+### Participación en curso de Figma - Domestika
+[Ver Certificado](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/certificate.pdf)
 
 ---
 
-### Participacion en curso de gestion de proyectos en Git y GitHub
-<img src="https://raw.githubusercontent.com/Sebanev15/Sebanev15/main/certificados/Diploma_participacion.pdf" alt="Certificado Introduction to Web Development" width="70%">
+### Participación en curso de gestión de proyectos en Git y GitHub
+[Ver Certificado](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/Diploma_participacion.pdf)
 
 ---
 
-### Participacion en curso de HTML, CSS y JavaScript - Hack Academy
-<img src="https://raw.githubusercontent.com/Sebanev15/Sebanev15/main/certificados/Sebastian%20Neves%20-%202023-05-08.pdf" alt="Certificado Introduction to Web Development" width="70%">
+### Participación en curso de HTML, CSS y JavaScript - Hack Academy
+[Ver Certificado](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/Sebastian%20Neves%20-%202023-05-08.pdf)

@@ -47,3 +47,6 @@ MeriendasImpulso surgió a partir de una idea mía y de un compañero para gesti
     <img src="https://img.youtube.com/vi/Dd5Mtjqby5U/maxresdefault.jpg" alt="Demo de MeriendasImpulso" width="80%">
   </a>
 </div>
+
+## Mis Estadísticas de GitHub 📊
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Sebanev15&show_icons=true&theme=dark)

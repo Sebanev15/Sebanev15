@@ -56,7 +56,7 @@ MeriendasImpulso surgió a partir de una idea mía y de un compañero para gesti
 ---
 
 ### Participación en curso de GeneXus 18 Junior Analyst
-[Ver Certificado](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/WebCertificado26063_NEVESSEBASTIAN.pdf)
+[Ver Certificado](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/Certificado26063_NEVESSEBASTIAN.pdf)
 
 ---
 
@@ -66,7 +66,7 @@ MeriendasImpulso surgió a partir de una idea mía y de un compañero para gesti
 ---
 
 ### Participación en curso de HTML y CSS - Domestika
-[Ver Certificado](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/ertificate%20HTML%20y%20CSS.pdf)
+[Ver Certificado](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/certificate%20HTML%20y%20CSS.pdf)
 
 ---
 

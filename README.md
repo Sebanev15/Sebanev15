@@ -21,6 +21,41 @@ MeriendasImpulso was born from an idea by a classmate and me to manage the sale 
     <img src="https://img.youtube.com/vi/Dd5Mtjqby5U/maxresdefault.jpg" alt="MeriendasImpulso Demo" width="80%">
   </a>
 </div>
+## Certifications and Completed Courses 📜
+
+### Participation in NASA's Space Apps Challenge Hackathon
+[View Certificate](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/2023%20Space%20Apps%20Certificates_NASA%20Space%20Apps%20Challenge%20-%20Sebasti%C3%A1n%20Neves.pdf)
+
+---
+
+### GeneXus 18 Junior Analyst Course
+[View Certificate](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/WebCertificado26063_NEVESSEBASTIAN.pdf)
+
+---
+
+### GeneXus 18 Junior Developer Course 
+[View Certificate](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/Certificado38546_NEVESSEBASTIAN.pdf)
+
+---
+
+### HTML and CSS Course - Domestika
+[View Certificate](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/ertificate%20HTML%20y%20CSS.pdf)
+
+---
+
+### Figma Course - Domestika
+[View Certificate](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/certificate.pdf)
+
+---
+
+### Project Management with Git and GitHub Course
+[View Certificate](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/Diploma_participacion.pdf)
+
+---
+
+### HTML, CSS, and JavaScript Course - Hack Academy
+[View Certificate](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/Sebastian%20Neves%20-%202023-05-08.pdf)
+
 
 ---
 

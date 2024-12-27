@@ -5,7 +5,7 @@ I am a 17-year-old high school student from Uruguay, passionate about programmin
 
 # My Favorite Projects 🚀
 
-## Mimint 🚧 *In Progress*
+## Mimint ✅ *Project Completed*
 Mimint is my latest group project, a web application designed to organize meetings.
 
 [![Mimint Repository](https://img.shields.io/badge/Visit_Repository-FF6F61?style=for-the-badge&logo=github&logoColor=white&labelColor=282C34)](https://github.com/Sebanev15/Mimint)
@@ -66,7 +66,7 @@ Soy un estudiante de bachillerato uruguayo de 17 años, apasionado por la progra
 
 # Mis Proyectos Favoritos 🚀
 
-## Mimint 🚧 *En progreso*
+## Mimint ✅ *Proyecto Completado*
 Mimint es mi último proyecto en grupo y es una aplicación web realizada con el objetivo de organizar reuniones.
 
 [![Repositorio de Mimint](https://img.shields.io/badge/Visitar_Repositorio-FF6F61?style=for-the-badge&logo=github&logoColor=white&labelColor=282C34)](https://github.com/Sebanev15/Mimint)

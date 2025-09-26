@@ -1,7 +1,7 @@
 ## Hello 👋
 
 # About Me 👨‍💻
-I am a 17-year-old high school student from Uruguay, passionate about programming. I love to learn more every day, and I currently have knowledge in: PHP, Java, JavaScript, Python, HTML, CSS, and Shell script.
+I am a 18-year-old university student from Uruguay, passionate about programming. I love to learn more every day, and I currently have knowledge in: Java, SpringBoot, PHP, C#, JavaScript, Python, MySQL, HTML and CSS
 
 # My Favorite Projects 🚀
 
@@ -62,7 +62,7 @@ MeriendasImpulso was born from an idea by a classmate and me to manage the sale 
 ## Hola 👋
 
 # Sobre mí 👨‍💻
-Soy un estudiante de bachillerato uruguayo de 17 años, apasionado por la programación. Me encanta aprender cada día más y actualmente tengo conocimientos en: PHP, Java, JavaScript, Python, HTML, CSS y Shell script.
+Soy un estudiante de facultad uruguayo de 18 años, apasionado por la programación. Me encanta aprender cada día más y actualmente tengo conocimientos en: Java, SpringBoot, PHP, C#, JavaScript, Python, MySQL, HTML, CSS y Shell script.
 
 # Mis Proyectos Favoritos 🚀
 

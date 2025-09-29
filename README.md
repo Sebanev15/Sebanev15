@@ -29,7 +29,7 @@ MeriendasImpulso was born from an idea by a classmate and me to manage the sale 
 ---
 
 ### GeneXus 18 Junior Analyst Course
-[View Certificate](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/WebCertificado26063_NEVESSEBASTIAN.pdf)
+[View Certificate](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/Certificado26063_NEVESSEBASTIAN.pdf)
 
 ---
 

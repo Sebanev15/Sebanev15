@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Backend+Developer;Java+%7C+Spring+Boot;Building+Production+Ready+Software" />
+
 <h1 align="center">Sebastián Neves</h1>
 
 <p align="center">
@@ -13,18 +15,26 @@
 
 ---
 
+## 👨‍💻 About Me
+
+I'm a Computer Science student from Uruguay focused on backend development.
+
+I enjoy building scalable APIs, learning software architecture, and deploying applications using modern development practices.
+
+Currently looking for opportunities where I can contribute, learn, and grow as a software engineer.
+
 ## Tech Stack 🛠️
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security_+_JWT-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit_+_Mockito-25A162?style=flat-square&logo=junit5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security_+_JWT-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit_+_Mockito-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 

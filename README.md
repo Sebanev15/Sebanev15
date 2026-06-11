@@ -1,119 +1,83 @@
-## Hello 👋
+<h1 align="center">Sebastián Neves</h1>
 
-# About Me 👨‍💻
-I am a 18-year-old university student from Uruguay, passionate about programming. I love to learn more every day, and I currently have knowledge in: Java, SpringBoot, PHP, C#, JavaScript, Python, MySQL, HTML and CSS
+<p align="center">
+  Backend developer in training · 19 y/o · Uruguay<br>
+  Computer Science student.
+</p>
 
-# My Favorite Projects 🚀
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Montevideo,_Uruguay-282C34?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎓_UCU-282C34?style=flat-square" />
+  <img src="https://img.shields.io/badge/💼_Open_to_work-2ecc71?style=flat-square" />
+</p>
 
-## Mimint ✅ *Project Completed*
-Mimint is my latest group project, a web application designed to organize meetings.
+---
 
-[![Mimint Repository](https://img.shields.io/badge/Visit_Repository-FF6F61?style=for-the-badge&logo=github&logoColor=white&labelColor=282C34)](https://github.com/Sebanev15/Mimint)
+## Tech Stack 🛠️
 
-<img src="https://raw.githubusercontent.com/Sebanev15/Sebanev15/main/Mimint.png" alt="Mimint" width="90%"/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security_+_JWT-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit_+_Mockito-25A162?style=flat-square&logo=junit5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## MeriendasImpulso ✅ *Project Completed*
-MeriendasImpulso was born from an idea by a classmate and me to manage the sale of food in our high school.
+---
 
-<div align="center">
-  <h3>MeriendasImpulso Demo</h3>
-  <a href="https://www.youtube.com/watch?v=Dd5Mtjqby5U">
-    <img src="https://img.youtube.com/vi/Dd5Mtjqby5U/maxresdefault.jpg" alt="MeriendasImpulso Demo" width="80%">
+## Projects 
+
+###  Task Manager API — *Featured*
+> Production-ready REST API for task management with JWT authentication, pagination, filtering, and full unit test coverage. Deployed on Render.
+
+[![Repo](https://img.shields.io/badge/Repository-282C34?style=flat-square&logo=github&logoColor=white)](https://github.com/Sebanev15/TaskManagerSpringBoot)
+[![Live](https://img.shields.io/badge/Live_Demo-2ecc71?style=flat-square&logo=render&logoColor=white)](https://taskmanager-api-71h9.onrender.com/swagger-ui/index.html)
+[![CI](https://github.com/Sebanev15/TaskManagerSpringBoot/actions/workflows/ci.yml/badge.svg)](https://github.com/Sebanev15/TaskManagerSpringBoot/actions/workflows/ci.yml)
+
+`Java 21` `Spring Boot 4` `Spring Security` `JWT` `PostgreSQL` `Docker` `JUnit 5` `Mockito` `Swagger`
+
+---
+
+### Mimint
+> Group web application designed to organize and schedule meetings.
+
+[![Repo](https://img.shields.io/badge/Repository-282C34?style=flat-square&logo=github&logoColor=white)](https://github.com/Sebanev15/Mimint)
+
+---
+
+### MeriendasImpulso
+> Food sales management system built for a high school. Handles orders, inventory, and reporting.
+
+[![Demo](https://img.shields.io/badge/Watch_Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Dd5Mtjqby5U)
+
+---
+
+## GitHub Stats 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sebanev15&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebanev15&layout=compact&theme=default&hide_border=true" height="150"/>
+</p>
+
+---
+
+## Certifications 
+
+- **NASA Space Apps Challenge** — Participant
+- **GeneXus 18 Junior Analyst** — [View certificate](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/Certificado26063_NEVESSEBASTIAN.pdf)
+- **GeneXus 18 Junior Developer** — [View certificate](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/Certificado38546_NEVESSEBASTIAN.pdf)
+- **Project Management with Git and GitHub** — [View certificate](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/Diploma_participacion.pdf)
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sebastian-neves/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-</div>
-## Certifications and Completed Courses 📜
-
-### Participation in NASA's Space Apps Challenge Hackathon
-[View Certificate](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/2023%20Space%20Apps%20Certificates_NASA%20Space%20Apps%20Challenge%20-%20Sebasti%C3%A1n%20Neves.pdf)
-
----
-
-### GeneXus 18 Junior Analyst Course
-[View Certificate](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/Certificado26063_NEVESSEBASTIAN.pdf)
-
----
-
-### GeneXus 18 Junior Developer Course 
-[View Certificate](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/Certificado38546_NEVESSEBASTIAN.pdf)
-
----
-
-### HTML and CSS Course - Domestika
-[View Certificate](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/ertificate%20HTML%20y%20CSS.pdf)
-
----
-
-### Figma Course - Domestika
-[View Certificate](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/certificate.pdf)
-
----
-
-### Project Management with Git and GitHub Course
-[View Certificate](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/Diploma_participacion.pdf)
-
----
-
-### HTML, CSS, and JavaScript Course - Hack Academy
-[View Certificate](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/Sebastian%20Neves%20-%202023-05-08.pdf)
-
-
----
-
-## Hola 👋
-
-# Sobre mí 👨‍💻
-Soy un estudiante de facultad uruguayo de 18 años, apasionado por la programación. Me encanta aprender cada día más y actualmente tengo conocimientos en: Java, SpringBoot, PHP, C#, JavaScript, Python, MySQL, HTML, CSS y Shell script.
-
-# Mis Proyectos Favoritos 🚀
-
-## Mimint ✅ *Proyecto Completado*
-Mimint es mi último proyecto en grupo y es una aplicación web realizada con el objetivo de organizar reuniones.
-
-[![Repositorio de Mimint](https://img.shields.io/badge/Visitar_Repositorio-FF6F61?style=for-the-badge&logo=github&logoColor=white&labelColor=282C34)](https://github.com/Sebanev15/Mimint)
-
-<img src="https://raw.githubusercontent.com/Sebanev15/Sebanev15/main/Mimint.png" alt="Mimint" width="90%"/>
-
-## MeriendasImpulso ✅ *Proyecto Completado*
-MeriendasImpulso surgió a partir de una idea mía y de un compañero para gestionar la venta de alimentos en nuestro liceo.
-
-<div align="center">
-  <h3>Demo de MeriendasImpulso</h3>
-  <a href="https://www.youtube.com/watch?v=Dd5Mtjqby5U">
-    <img src="https://img.youtube.com/vi/Dd5Mtjqby5U/maxresdefault.jpg" alt="Demo de MeriendasImpulso" width="80%">
+  <a href="mailto:sebanev15@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-</div>
-
-## Certificaciones y Cursos Completados 📜
-
-### Participación en hackatón Space Apps Challenge
-[Ver Certificado](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/2023%20Space%20Apps%20Certificates_NASA%20Space%20Apps%20Challenge%20-%20Sebasti%C3%A1n%20Neves.pdf)
-
----
-
-### Participación en curso de GeneXus 18 Junior Analyst
-[Ver Certificado](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/Certificado26063_NEVESSEBASTIAN.pdf)
-
----
-
-### Participación en curso de GeneXus 18 Junior Developer 
-[Ver Certificado](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/Certificado38546_NEVESSEBASTIAN.pdf)
-
----
-
-### Participación en curso de HTML y CSS - Domestika
-[Ver Certificado](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/certificate%20HTML%20y%20CSS.pdf)
-
----
-
-### Participación en curso de Figma - Domestika
-[Ver Certificado](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/certificate.pdf)
-
----
-
-### Participación en curso de gestión de proyectos en Git y GitHub
-[Ver Certificado](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/Diploma_participacion.pdf)
-
----
-
-### Participación en curso de HTML, CSS y JavaScript - Hack Academy
-[Ver Certificado](https://github.com/Sebanev15/Sebanev15/blob/main/certificados/Sebastian%20Neves%20-%202023-05-08.pdf)
+</p>

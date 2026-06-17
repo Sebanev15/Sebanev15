@@ -15,7 +15,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Computer Science student from Uruguay focused on backend development.
 

@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Montevideo,_Uruguay-282C34?style=flat-square" />
-  <img src="https://img.shields.io/badge/🎓_UCU-282C34?style=flat-square" />
-  <img src="https://img.shields.io/badge/💼_Open_to_work-2ecc71?style=flat-square" />
+  <img src="https://img.shields.io/badge/_Montevideo,_Uruguay-282C34?style=flat-square" />
+  <img src="https://img.shields.io/badge/_UCU-282C34?style=flat-square" />
+  <img src="https://img.shields.io/badge/_Open_to_work-2ecc71?style=flat-square" />
 </p>
 
 ---
@@ -23,7 +23,7 @@ I enjoy building scalable APIs, learning software architecture, and deploying ap
 
 Currently looking for opportunities where I can contribute, learn, and grow as a software engineer.
 
-## Tech Stack 🛠️
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
